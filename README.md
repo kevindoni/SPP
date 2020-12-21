@@ -14,7 +14,7 @@ Clone the repository
 
 Switch to the repo folder
 
-    cd sp
+    cd SPP
 
 Install all the dependencies using composer
 
