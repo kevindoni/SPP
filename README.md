@@ -10,11 +10,11 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 
-    git clone https://github.com/ajikamaludin/spp-paud.git
+    git clone https://github.com/kevindoni/SPP.git
 
 Switch to the repo folder
 
-    cd spp-paud
+    cd sp
 
 Install all the dependencies using composer
 
@@ -54,17 +54,9 @@ You can now access the server at http://localhost:8000
 
 ----------
 # Default SuperUser
+########################################
 
-Default Email : [demo link](http://app01.ajikamaludin.id)
+Default Email : admin@example.com 
 
-    admin@example.com 
-
-Password : 
-
-    password
-
-# Author
-
-:rocket: [Aji Kamaludin](https://github.com/ajikamaludin)
-
-:rocket: [Arif Setyo Nugroho](https://github.com/arifsetyo21)
+Password : password
+########################################
