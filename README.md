@@ -1,6 +1,5 @@
 # Dashboard Preview
 
-![preview dashboard](https://raw.githubusercontent.com/ajikamaludin/spp-paud/master/public/preview.png)
 
 # Getting started
 
