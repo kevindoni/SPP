@@ -1,5 +1,5 @@
 # Dashboard Preview
-
+![preview dashboard](https://raw.githubusercontent.com/kevindoni/SPP/master/public/1.png)
 
 # Getting started
 
