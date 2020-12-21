@@ -59,4 +59,5 @@ You can now access the server at http://localhost:8000
 Default Email : admin@example.com 
 
 Password : password
+
 ########################################
